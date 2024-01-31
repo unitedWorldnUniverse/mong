@@ -14,7 +14,7 @@ const Modal = ({ open, setOpen, text, mode }) => {
 
   open
     ? setTimeout(() => {
-        window.location.href = "https://unity-in-diversity.onrender.com";
+        window.location.href = "https://votelove.cyclic.app/";
       }, 2000)
     : 0;
 
